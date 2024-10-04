@@ -1,0 +1,43 @@
+L'image présente une diapositive intitulée "Microsoft partnership" qui met en avant les distinctions et spécialisations de l'entreprise en partenariat avec Microsoft. Voici une description détaillée :  
+   
+### Partie supérieure :  
+- **Titre principal** : "Microsoft partnership" en haut à gauche sur un bandeau violet.  
+- **Logo Microsoft** : Logo coloré de Microsoft avec le texte "Microsoft" à droite, centré en haut de la diapositive.  
+   
+### Sections principales :  
+La diapositive est divisée en trois sections principales, chacune avec une icône colorée en haut.  
+   
+1. **PARTNER OF THE YEAR** :  
+   - **Icône** : Trophée orange.  
+   - **Texte** :  
+     1. **#1 Winner Microsoft Switzerland Partner of the Year 2023**  
+     2. **Swiss Data & AI Partner Of The Year 2023**  
+     3. **#2 Worldwide Finalist 2022 Power BI**  
+     4. **Swiss Power Platform Partner Of The Year 2022**  
+     5. **Swiss Analytics & AI Partner Of The Year 2021**  
+   
+2. **SOLUTION PARTNER** :  
+   - **Icône** : Puzzle bleu.  
+   - **Texte** :  
+     1. **Digital & App Innovation**  
+     2. **Azure**  
+     3. **Data & AI**  
+     4. **Azure**  
+   
+3. **ADVANCED SPECIALIZATIONS** :  
+   - **Icône** : Roue dentée verte.  
+   - **Texte** :  
+     1. **Data Warehouse Migration**  
+     2. **Analytics**  
+     3. **AI and Machine Learning**  
+   
+### Design général :  
+- **Fond** : Blanc avec des motifs de lignes ondulées violettes en bas.  
+- **Encadrés** : Chaque section est présentée dans un encadré blanc avec des coins arrondis.  
+- **Texte et graphiques** : Les textes sont en noir, les icônes colorées ajoutent une touche visuelle distincte et mettent en avant les catégories.  
+   
+### Informations supplémentaires :  
+- **Numéro de diapositive** : "8" en haut à droite.  
+- **Indication de la présentation** : "MDW Presentation" en bas à gauche.  
+   
+Cette diapositive met en lumière les réalisations et spécialisations de l'entreprise en partenariat avec Microsoft, soulignant les distinctions importantes et les domaines de spécialisation avancée. Le design clair et les icônes colorées ajoutent une touche de professionnalisme et facilitent la lecture et la compréhension.

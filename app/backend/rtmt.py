@@ -53,8 +53,8 @@ class RTMiddleTier:
     # Typically at least the model name and system message will be set by the server
     model: Optional[str] = None
     system_message: Optional[str] = None
-    temperature: Optional[float] = None
-    max_tokens: Optional[int] = None
+    temperature: Optional[float] = 0 #None
+    max_tokens: Optional[int] = 200 #None
     disable_audio: Optional[bool] = None
 
     _tools_pending = {}

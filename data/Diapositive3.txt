@@ -1,0 +1,61 @@
+L'image présente une diapositive intitulée "About us" et sous-titrée "AREA OF EXPERTISE", mettant en avant les domaines d'expertise de l'entreprise. Voici une description détaillée :  
+   
+### Partie supérieure :  
+- **Titre principal** : "AREA OF EXPERTISE" en grandes lettres noires.  
+- **Titre de la diapositive** : "About us" en haut à gauche sur un bandeau violet.  
+- **Numéro de diapositive** : "3" en haut à droite.  
+   
+### Domaines d'expertise :  
+La diapositive est divisée en trois sections principales, chacune avec une icône correspondante en haut.  
+   
+1. **BIG DATA** :  
+   - **Icône** : Symbolisant les connexions de données.  
+   - **Texte** :  
+     - **BIG DATA** (en violet)  
+     - **Data lake**  
+     - **Data warehouse**  
+     - **Data engineering**  
+     - **Data modelling**  
+     - **Master data management**  
+   
+2. **ARTIFICIAL INTELLIGENCE** :  
+   - **Icône** : Symbolisant l'intelligence artificielle.  
+   - **Texte** :  
+     - **ARTIFICIAL INTELLIGENCE** (en violet)  
+     - **Generative**  
+     - **Decision**  
+     - **Language & Speech**  
+     - **Vision**  
+     - **Chatbot**  
+   
+3. **BUSINESS APPLICATIONS** :  
+   - **Icône** : Graphique de performance.  
+   - **Texte** :  
+     - **BUSINESS APPLICATIONS** (en violet)  
+     - **Business intelligence**  
+     - **Business process automation**  
+     - **Low Code/No code**  
+     - **CRM**  
+     - **Marketing**  
+   
+### Processus en bas :  
+- Une ligne horizontale avec des étapes du processus, chaque étape étant représentée par une bulle grise avec du texte blanc à l'intérieur et des flèches les reliant. Les étapes sont :  
+  - **STRATEGY**  
+  - **BUSINESS ANALYSIS**  
+  - **LICENSING & RESELLING**  
+  - **BUILD**  
+  - **TRAINING & ADOPTION**  
+  - **GOVERNANCE**  
+  - **DESIGN**  
+  - **PROVE**  
+  - **OPS**  
+   
+### Design général :  
+- **Fond** : Blanc avec des motifs de lignes ondulées violettes sur les côtés.  
+- **Encadrés** : Chaque domaine d'expertise est présenté dans un encadré blanc avec des coins arrondis et une icône correspondante.  
+- **Texte et graphiques** : Les textes sont en noir et violet, les icônes et les bulles du processus ajoutent une touche visuelle distincte.  
+   
+### Informations supplémentaires :  
+- **Indication de la présentation** : "MDW Presentation" en bas à gauche.  
+   
+Cette diapositive met en lumière les domaines d'expertise de l'entreprise, offrant une vue d'ensemble des compétences et des services proposés. Le design clair et les icônes colorées ajoutent une touche de professionnalisme et facilitent la lecture et la compréhension.

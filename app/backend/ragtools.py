@@ -9,8 +9,8 @@ from rtmt import RTMiddleTier, Tool, ToolResult, ToolResultDirection
 _search_tool_schema = {
     "type": "function",
     "name": "search",
-    "description": "Search the knowledge base. The knowledge base is in English, translate to and from English if " + \
-                   "needed. Results are formatted as a source name first in square brackets, followed by the text " + \
+    "description": "Search the knowledge base. The knowledge base is in French, don't translate into English. " + \
+                   "Results are formatted as a source name first in square brackets, followed by the text " + \
                    "content, and a line with '-----' at the end of each result.",
     "parameters": {
         "type": "object",
@@ -52,13 +52,14 @@ async def _search_tool(search_client: SearchClient, args: Any) -> ToolResult:
     # Hybrid + Reranking query using Azure AI Search
     search_results = await search_client.search(
         search_text=args['query'], 
-        query_type="semantic",
-        top=5,
-        vector_queries=[VectorizableTextQuery(text=args['query'], k_nearest_neighbors=50, fields="text_vector")],
-        select="chunk_id,title,chunk")
+        query_type="simple", #semantic
+        top=3,
+        # vector_queries=[VectorizableTextQuery(text=args['query'], k_nearest_neighbors=50, fields="text_vector")],
+        select="chunk_id,title,content")
     result = ""
+    print("ICI1")
     async for r in search_results:
-        result += f"[{r['chunk_id']}]: {r['chunk']}\n-----\n"
+        result += f"[{r['chunk_id']}]: {r['content']}\n-----\n"
     return ToolResult(result, ToolResultDirection.TO_SERVER)
 
 KEY_PATTERN = re.compile(r'^[a-zA-Z0-9_=\-]+$')
@@ -66,6 +67,7 @@ KEY_PATTERN = re.compile(r'^[a-zA-Z0-9_=\-]+$')
 # TODO: move from sending all chunks used for grounding eagerly to only sending links to 
 # the original content in storage, it'll be more efficient overall
 async def _report_grounding_tool(search_client: SearchClient, args: Any) -> None:
+    print("ICI2")
     sources = [s for s in args["sources"] if KEY_PATTERN.match(s)]
     list = " OR ".join(sources)
     print(f"Grounding source: {list}")
@@ -73,17 +75,18 @@ async def _report_grounding_tool(search_client: SearchClient, args: Any) -> None
     # are generated, where chunk_id is searchable with a keyword tokenizer, not filterable 
     search_results = await search_client.search(search_text=list, 
                                                 search_fields=["chunk_id"], 
-                                                select=["chunk_id", "title", "chunk"], 
+                                                select=["chunk_id", "title", "content"], 
                                                 top=len(sources), 
                                                 query_type="full")
-    
+    print("ICI3")
     # If your index has a key field that's filterable but not searchable and with the keyword analyzer, you can 
     # use a filter instead (and you can remove the regex check above, just ensure you escape single quotes)
     # search_results = await search_client.search(filter=f"search.in(chunk_id, '{list}')", select=["chunk_id", "title", "chunk"])
 
     docs = []
+    print("ICI4")
     async for r in search_results:
-        docs.append({"chunk_id": r['chunk_id'], "title": r["title"], "chunk": r['chunk']})
+        docs.append({"chunk_id": r['chunk_id'], "title": r["title"], "chunk": r['content']})
     return ToolResult({"sources": docs}, ToolResultDirection.TO_CLIENT)
 
 def attach_rag_tools(rtmt: RTMiddleTier, search_endpoint: str, search_index: str, credentials: AzureKeyCredential | DefaultAzureCredential) -> None:

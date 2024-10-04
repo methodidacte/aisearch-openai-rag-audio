@@ -1,0 +1,36 @@
+L'image présente une diapositive intitulée "Our partners" et sous-titrée "OUR PARTNERS". Elle affiche les logos de quatre partenaires clés de l'entreprise ou de l'organisation. Voici une description détaillée :  
+   
+### Partie supérieure :  
+- **Titre principal** : "OUR PARTNERS" en grandes lettres noires.  
+   
+### Logos des partenaires :  
+1. **Microsoft** :  
+   - Situé au centre supérieur de l'image.  
+   - Logo coloré de Microsoft avec le texte "Microsoft" à droite.  
+   - Entouré d'un arc semi-circulaire violet et blanc.  
+   
+2. **Profisee** :  
+   - Situé en bas à gauche de l'image.  
+   - Logo de Profisee avec le texte "Profisee" à droite de trois points bleus formant un triangle.  
+   - Entouré d'un arc semi-circulaire violet et blanc.  
+   
+3. **Supermetrics** :  
+   - Situé en bas au centre de l'image.  
+   - Logo de Supermetrics avec le texte "SUPERMETRICS" en lettres majuscules rouges.  
+   - Entouré d'un arc semi-circulaire violet et blanc.  
+   
+4. **Databricks** :  
+   - Situé en bas à droite de l'image.  
+   - Logo de Databricks avec le texte "databricks" à droite d'une icône rouge représentant une structure en forme de cube.  
+   - Entouré d'un arc semi-circulaire violet et blanc.  
+   
+### Design général :  
+- **Fond** : Blanc avec des motifs de lignes ondulées violettes en bas.  
+- **Encadrés** : Chaque logo est partiellement encadré par un arc semi-circulaire violet et blanc, créant un effet visuel attrayant et distinctif.  
+- **Texte et graphiques** : Les logos des partenaires sont bien visibles et centrés, permettant une identification facile.  
+   
+### Informations supplémentaires :  
+- **Titre de la diapositive** : "Our partners" en haut à gauche sur un bandeau violet.  
+- **Indication de la présentation** : "MDW Presentation" en bas à gauche.  
+   
+Cette diapositive met en avant les partenariats clés de l'entreprise, soulignant l'importance de la collaboration avec ces organisations reconnues. Le design épuré et les arcs semi-circulaires ajoutent une touche de modernité et de professionnalisme.

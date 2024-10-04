@@ -1,0 +1,86 @@
+L'image présente une diapositive intitulée "Definitions" avec le sous-titre principal "THE TECHNOLOGY AT OUR DISPOSAL". Elle décrit les différentes technologies et services disponibles, organisés en plusieurs sections. Voici une description détaillée de chaque élément :  
+   
+### Partie supérieure :  
+- **Titre principal** : "THE TECHNOLOGY AT OUR DISPOSAL" en grandes lettres noires.  
+- **Sous-titre** : "Preparation: Governance, Security, Compliance & Telemetry" dans un rectangle gris clair en dessous du titre principal.  
+   
+### Partie gauche :  
+- **Sources** :  
+  - Encadré violet avec le titre "SOURCES".  
+  - Trois catégories de sources :  
+    - **Relational Databases** : Icône de base de données.  
+    - **Semi-Structured** : CSV, Logs, JSON, XML.  
+    - **Non-Structured** : Images, Vidéo, Audio, Texte libre.  
+    - **Stream** : IoT Devices, Sensors.  
+   
+### Partie centrale :  
+- **Shared Analysis Tools** :  
+  - Encadré violet avec le titre "SHARED ANALYSIS TOOLS".  
+  - Outils listés avec leurs icônes respectives :  
+    - Power BI  
+    - Cognitive Search  
+    - WebApp  
+    - Logic App  
+    - Function App  
+   
+- **Shared Data Services** :  
+  - Encadré violet avec le titre "SHARED DATA SERVICES".  
+  - Deux sous-sections :  
+    - **Data Services** :  
+      - Event Hub  
+      - IoT Hub  
+      - Profisee  
+      - Data Factory  
+      - Purview  
+    - **Intelligence Services** :  
+      - Databricks  
+      - Stream Analytics  
+      - Azure ML  
+      - Synapse  
+      - Cognitive Services  
+      - Virtual Assistant  
+      - OpenAI  
+      - Fabric  
+   
+- **Data Storage** :  
+  - Encadré violet avec le titre "DATA STORAGE".  
+  - Options de stockage listées avec leurs icônes respectives :  
+    - Data Lake  
+    - Cosmos DB  
+    - SQL Database  
+    - Data Explorer  
+    - Synapse  
+   
+### Partie droite :  
+- **Applications** :  
+  - Encadré gris clair avec le titre "APPLICATIONS".  
+  - Applications listées avec leurs icônes respectives :  
+    - WebApp  
+    - Dynamics  
+    - O365 (Office 365)  
+    - Power BI  
+    - Power Apps  
+    - Power Automate  
+   
+### Flèches et flux :  
+- **Read/Write** :  
+  - Flèche allant des "Shared Analysis Tools" vers les "Applications".  
+- **Feedback Loop** :  
+  - Flèche circulaire entre "Intelligence Services" et "Applications".  
+- **Read** :  
+  - Flèche allant de "Data Storage" vers "Applications".  
+   
+### Bandeau inférieur :  
+- **Étapes du flux de données** :  
+  - "Publishers Publish to Data Storage" : Les éditeurs publient dans le stockage de données.  
+  - "Operationalized Through DevOps" : Opérationnalisé via DevOps.  
+  - "Centrally Governed Data Lake" : Lac de données géré de manière centralisée.  
+  - "Centrally Hosted Data/ML Tools" : Outils de données/ML hébergés de manière centralisée.  
+  - "Compute to Lake Pattern" : Modèle de calcul vers le lac.  
+  - "New Breed of Insights & Intelligence" : Nouvelle génération d'analyses et d'intelligence.  
+   
+### Design général :  
+- **Fond** : Blanc avec des motifs de lignes ondulées violettes sur les côtés.  
+- **Texte et graphiques** : Utilisation de couleurs vives et d'icônes pour représenter les différentes technologies et services.  
+   
+Cette diapositive semble structurer et visualiser les technologies et services de données disponibles, en soulignant les processus et les flux de travail associés.

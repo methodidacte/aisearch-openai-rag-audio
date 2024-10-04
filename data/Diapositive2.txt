@@ -1,0 +1,45 @@
+L'image présente une diapositive intitulée "About us" et sous-titrée "KEY FIGURES", mettant en avant les chiffres clés de l'entreprise ainsi qu'une carte géographique indiquant les emplacements principaux. Voici une description détaillée :  
+   
+### Partie supérieure :  
+- **Titre principal** : "KEY FIGURES" en grandes lettres noires.  
+- **Titre de la diapositive** : "About us" en haut à gauche sur un bandeau violet.  
+- **Numéro de diapositive** : "2" en haut à droite.  
+   
+### Chiffres clés à gauche :  
+1. **3 COUNTRIES** :  
+   - Icône : Globe terrestre.  
+   - Texte : "3 COUNTRIES" en violet.  
+   
+2. **50+ ACTIVE CUSTOMERS** :  
+   - Icône : Fichier ou dossier.  
+   - Texte : "50+ ACTIVE CUSTOMERS" en violet.  
+   
+3. **85% CUSTOMER RETENTION RATE** :  
+   - Icône : Graphique de performance.  
+   - Texte : "85% CUSTOMER RETENTION RATE" en violet.  
+   
+4. **4.79/5 AVERAGE FEEDBACK FROM OUR CUSTOMERS** :  
+   - Icône : Pouce levé (like).  
+   - Texte : "4.79/5 AVERAGE FEEDBACK FROM OUR CUSTOMERS" en violet.  
+   
+### Carte géographique à droite :  
+- **Carte de l'Europe** : Montre les emplacements principaux de l'entreprise en Europe.  
+- **Pays en surbrillance** :  
+  - **HQ SWITZERLAND** : Indiqué avec un point violet et le texte "HQ SWITZERLAND".  
+  - **FRANCE** : Indiqué avec un point violet et le texte "FRANCE".  
+  - **SPAIN** : Indiqué avec un point violet et le texte "SPAIN".  
+   
+- **Villes indiquées** :  
+  - **GENEVA** : Marquée avec une épingle bleue et le texte "GENEVA".  
+  - **PARIS** : Marquée avec une épingle rose et le texte "PARIS".  
+  - **MADRID** : Marquée avec une épingle violette et le texte "MADRID".  
+   
+### Design général :  
+- **Fond** : Blanc avec des motifs de lignes ondulées violettes en bas et à droite.  
+- **Encadrés** : Chaque chiffre clé est présenté dans un encadré blanc avec des coins arrondis et une icône correspondante.  
+- **Texte et graphiques** : Les textes sont en noir et violet, les icônes et les épingles colorées ajoutent une touche visuelle distincte.  
+   
+### Informations supplémentaires :  
+- **Indication de la présentation** : "MDW Presentation" en bas à gauche.  
+   
+Cette diapositive met en lumière les chiffres clés et les emplacements géographiques principaux de l'entreprise, offrant une vue d'ensemble de sa présence et de ses performances. Le design clair et les icônes colorées ajoutent une touche de professionnalisme et facilitent la lecture et la compréhension.

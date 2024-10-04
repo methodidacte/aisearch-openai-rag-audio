@@ -1,0 +1,55 @@
+L'image présente une diapositive intitulée "Credentials" qui met en avant les distinctions et spécialisations obtenues par l'entreprise au fil des années. Voici une description détaillée :  
+   
+### Partie supérieure :  
+- **Titre principal** : "CREDENTIALS" en grandes lettres noires.  
+   
+### Ligne du temps :  
+- Une ligne horizontale avec quatre points marquant les années 2020, 2021, 2022, et 2023. Chaque point est connecté à une bulle grise contenant l'année correspondante.  
+   
+### Distinctions par année :  
+   
+1. **2020** :  
+   - **Texte** :   
+     - "Advanced specialization"  
+     - "Data Warehouse Migration"  
+     - "Analytics"  
+     - "AI and Machine Learning"  
+     - "Only 3 partners in EMEA"  
+   - **Logo** : Logo Microsoft en bas.  
+   
+2. **2021** :  
+   - **Texte** :  
+     - "Swiss Analytics & AI Partner Of The Year"  
+     - "Distinction of 4 categories"  
+   - **Icône** : Trophée gris.  
+   - **Logo** : Logo Microsoft en bas.  
+   
+3. **2022** :  
+   - **Texte** :  
+     - "Finalist Worldwide Partner of the year"  
+     - "Power BI 3,900 entries"  
+     - "Swiss Power Platform Partner Of The Year"  
+     - "Distinction of 4 categories"  
+   - **Icône** : Trophée gris.  
+   - **Logo** : Logo Microsoft en bas.  
+   
+4. **2023** :  
+   - **Texte** :  
+     - "Winner Partner of the Year"  
+     - "Switzerland"  
+     - "Out of 4,200 entries"  
+     - "Swiss Data & AI Partner of the Year 2023"  
+   - **Icône** : Trophée doré.  
+   - **Logo** : Logo Microsoft en bas.  
+   
+### Design général :  
+- **Fond** : Blanc avec des motifs de lignes ondulées violettes en bas.  
+- **Encadrés** : Chaque année et distinction est présentée dans un encadré blanc avec des coins arrondis.  
+- **Texte et graphiques** : Les textes sont en noir et gris, les logos et icônes de trophées ajoutent une touche de couleur et mettent en avant les distinctions.  
+   
+### Informations supplémentaires :  
+- **Titre de la diapositive** : "Credentials" en haut à gauche sur un bandeau violet.  
+- **Numéro de diapositive** : "6" en haut à droite.  
+- **Indication de la présentation** : "MDW Presentation" en bas à gauche.  
+   
+Cette diapositive met en lumière les accomplissements et les distinctions obtenues par l'entreprise, soulignant sa reconnaissance dans différents domaines et années. Le design épuré et la ligne du temps ajoutent une structure claire et professionnelle.

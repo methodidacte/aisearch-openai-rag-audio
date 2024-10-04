@@ -1,0 +1,62 @@
+L'image présente une diapositive intitulée "Our partners & credentials", mettant en avant les partenaires principaux de l'entreprise ainsi que les distinctions obtenues. Voici une description détaillée :  
+   
+### Partie supérieure :  
+- **Titre principal** : "OUR PARTNERS" et "OUR DISTINCTIONS" en grandes lettres noires, alignés respectivement à gauche et à droite.  
+   
+### Partenaires principaux :  
+1. **Microsoft** :  
+   - Logo coloré de Microsoft avec le texte "Microsoft" à droite.  
+   - Entouré d'un arc semi-circulaire violet et blanc.  
+   
+2. **Profisee** :  
+   - Logo de Profisee avec le texte "Profisee" à droite de trois points bleus formant un triangle.  
+   - Entouré d'un arc semi-circulaire violet et blanc.  
+   
+3. **Supermetrics** :  
+   - Logo de Supermetrics avec le texte "SUPERMETRICS" en lettres majuscules rouges.  
+   - Entouré d'un arc semi-circulaire violet et blanc.  
+   
+4. **Databricks** :  
+   - Logo de Databricks avec le texte "databricks" à droite d'une icône rouge représentant une structure en forme de cube.  
+   - Entouré d'un arc semi-circulaire violet et blanc.  
+   
+### Distinctions :  
+- **2023** :  
+  - **Texte** :  
+    - "#1 Winner Microsoft Switzerland Partner of the Year 2023"  
+    - "Swiss Data & AI Partner Of The Year 2023"  
+  - **Icône** : Trophée doré.  
+  - **Logo** : Logo Microsoft en bas.  
+   
+- **2022** :  
+  - **Texte** :  
+    - "#2 Worldwide Finalist 2022"  
+    - "Power BI"  
+    - "Swiss Power Platform Partner Of The Year 2022"  
+  - **Icône** : Trophée gris.  
+  - **Logo** : Logo Microsoft en bas.  
+   
+- **2021** :  
+  - **Texte** :  
+    - "Swiss Analytics & AI Partner Of The Year 2021"  
+  - **Icône** : Trophée gris.  
+  - **Logo** : Logo Microsoft en bas.  
+   
+- **2020** :  
+  - **Texte** :  
+    - "Advanced specialization"  
+    - "Analytics, Data warehouse & AI"  
+    - "Only 3 partners in EMEA"  
+  - **Logo** : Logo Microsoft en bas.  
+   
+### Design général :  
+- **Fond** : Blanc avec des motifs de lignes ondulées violettes en bas.  
+- **Encadrés** : Chaque année et distinction est présentée dans un encadré blanc avec des coins arrondis.  
+- **Texte et graphiques** : Les textes sont en noir et gris, les logos et icônes de trophées ajoutent une touche de couleur et mettent en avant les distinctions.  
+   
+### Informations supplémentaires :  
+- **Titre de la diapositive** : "Our partners & credentials" en haut à gauche sur un bandeau violet.  
+- **Numéro de diapositive** : "6" en haut à droite.  
+- **Indication de la présentation** : "MDW Presentation" en bas à gauche.  
+   
+Cette diapositive met en lumière les partenaires clés de l'entreprise ainsi que les distinctions et réalisations significatives au fil des années, soulignant la reconnaissance et l'expertise dans différents domaines. Le design épuré et l'organisation claire ajoutent une touche de professionnalisme.

@@ -22,31 +22,24 @@ jobs:
       - name: Set up Node.js  
         uses: actions/setup-node@v2  
         with:  
-          node-version: '16'  # Utilisez la version de Node.js appropriée pour votre projet  
-  
-      - name: Restore frontend npm packages  
-        run: |  
-          cd frontend  
-          npm install  
+          node-version: '14'  # Utiliser la version de Node.js appropriée pour votre projet  
   
       - name: Build frontend  
+        working-directory: app/frontend  
         run: |  
-          cd ./frontend  
+          npm install  
           npm run build  
   
-      - name: Set up Python  
+      - name: Setup Python  
         uses: actions/setup-python@v2  
         with:  
-          python-version: '3.12'  # Utilisez la version de Python appropriée pour votre projet  
+          python-version: '3.12'  # Utiliser la version de Python appropriée pour votre projet  
   
-      - name: Restore backend python packages  
+      - name: Install Python dependencies  
+        working-directory: app/backend  
         run: |  
-          cd ../backend  
+          python -m pip install --upgrade pip  
           pip install -r requirements.txt  
-  
-      - name: Start backend  
-        run: |  
-          nohup python app.py &  # Démarre le backend en arrière-plan  
           
       - name: Build And Deploy
         id: builddeploy

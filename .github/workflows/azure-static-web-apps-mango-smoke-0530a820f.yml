@@ -52,7 +52,7 @@ jobs:
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
           app_location: "app/frontend"  # Répertoire contenant vos fichiers front-end  
           api_location: "app/backend"  # Répertoire contenant vos fichiers back-end  
-          output_location: "public"  # Répertoire de sortie de build de votre application front-end 
+          output_location: "backend/static"  # Répertoire de sortie de build de votre application front-end 
           ###### End of Repository/Build Configurations ######
 
   close_pull_request_job:
